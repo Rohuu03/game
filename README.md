@@ -7,11 +7,14 @@ SCORE CALCULATOR
 NUMBER OF LIFE INCREASED
 
 SPEED OF THE GAME WHILE PALYING SPEED WILL INCREASE WITH TIME 
-## Compile and Run.
-compiling 
-open the terminal in the project directorary and run:
-"" gcc .\game.c  """
-For running.
-exceute the compiled program with .
-
-"" .\a.exe ""
+## Compile and Run
+Compiling
+Open the terminal in the project directory and run:
+``` bash
+gcc game.c -o game
+```
+Running
+Execute the compiled programs with:
+```bash
+./game
+```
